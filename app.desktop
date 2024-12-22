@@ -1,0 +1,11 @@
+[Desktop Entry]
+
+Name=Jisho
+Exec=/home/milos/dev/jisho-search-provider/app %U
+Icon=firefox
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Development;
+MimeType=application/x-cd-image;
+DBusActivatable=true
